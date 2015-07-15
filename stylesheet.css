@@ -1,0 +1,85 @@
+#allc {
+  width:800px;
+}
+
+#allc {
+  margin-left:auto;
+  margin-right:auto;
+  }
+
+#Movies {
+  color:green;
+  }
+  
+#foods {
+  color:firebrick;
+  }
+
+#scrollbox {
+  height:200px;
+  width:500px;
+  overflow:scroll;
+  float:right;
+  }
+  
+h3 {
+  color:Chartreuse;
+  }
+
+li{
+  color:green;
+  }
+td {
+  color:#142530;
+  }
+
+th {
+  color:red;
+  }
+  
+body {
+color:white;
+font-size:#px;
+font-family:Timesnewroman;
+background-color:orange;
+background-image:url(http://fe867b.medialib.glogster.com/media/76/7682a6a08459aee706935575e0e44ed1a560c66ba7e1e856037b9f45e83a1872/i-can-has-cheezburger-jpg.jpg);
+background-repeat:no-repeat;
+}
+
+#left {
+  padding:15px;
+  margin:10px;
+  width:150px;
+  float:left;
+}
+
+#right {
+  padding:15px;
+  margin:10px;
+  width:150px;
+  float:right;
+}
+  
+#middle {
+  width:200px;
+  margin:300px 10px 10px 300px;
+}
+
+em {
+  font-style:italics;
+  text-transform:uppercase;
+	}
+	
+h2 {
+  font-size:200%
+}
+	
+strong {
+  background-color:black;
+}
+
+.box {
+  border:20px groove green;
+  width:700px;
+  background-color:purple;
+}
